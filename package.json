@@ -1,0 +1,12 @@
+{
+  "name": "CrossBot",
+  "version": "0.0.1",
+  "dependencies": {
+    "irc-connect": "latest",
+    "irc-channels": "latest",
+    "irc": "latest",
+    "node-xmpp-client": "latest",
+    "xmpp-jid": "latest",
+    "cleverbot-node": "latest"
+  }
+}
